@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+  background: #191b1d;
+}
+
+@font-face {
+  font-family: "Playfair Display SC";
+  src: url("../fonts/PlayfairDisplaySC/PlayfairDisplaySC-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/JosefinSans/JosefinSans-VariableFont_wght.ttf")
+    format("truetype");
+}
