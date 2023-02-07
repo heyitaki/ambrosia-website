@@ -24,7 +24,7 @@
 
 .logo-container {
   position: absolute;
-  width: 100%;
+  width: calc(100% - 80px);
   text-align: center;
   top: 20px;
 }
