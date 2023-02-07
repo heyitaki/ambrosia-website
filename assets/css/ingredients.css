@@ -1,0 +1,43 @@
+#ingredients {
+  height: 70vh;
+  width: 100%;
+  background: url(../images/ingredients.jpg) no-repeat center center/cover;
+  position: relative;
+}
+
+#ingredients .ingredients-text-container {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #33352e;
+  width: 575px;
+}
+
+#ingredients .ingredients-title {
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+#ingredients .ingredients-subtitle {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  margin-bottom: 15px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+#ingredients .ingredients-text {
+  margin-top: 15px;
+  font-family: Lora, serif;
+  font-size: 16px;
+}
+
+#ingredients .shop-now-button {
+  background: #33352e;
+}

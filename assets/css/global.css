@@ -37,3 +37,8 @@ body {
   src: url("../fonts/Lato/Lato-Black.ttf") format("truetype");
   font-weight: 900;
 }
+
+@font-face {
+  font-family: "Lora";
+  src: url("../fonts/Lora/Lora-VariableFont_wght.ttf.ttf") format("truetype");
+}
