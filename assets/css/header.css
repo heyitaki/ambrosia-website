@@ -10,23 +10,26 @@
   width: calc(100% - 80px);
   color: #fff;
   padding: 0 40px;
-  text-transform: uppercase;
 }
 
-.header a {
+.links a {
   text-decoration: none;
   color: #fff;
   font-size: 16px;
   font-family: "Josefin Sans", sans-serif;
   margin: 0 40px;
   cursor: pointer;
+  text-transform: uppercase;
+}
+
+.header .logo-container {
+  position: absolute;
+  top: 20px;
+  width: calc(100% - 80px);
 }
 
 .logo-container {
-  position: absolute;
-  width: calc(100% - 80px);
   text-align: center;
-  top: 20px;
 }
 
 .logo-container .logo-text {
@@ -40,4 +43,5 @@
   font-family: "Josefin Sans", sans-serif;
   font-size: 11.5px;
   letter-spacing: 0.1em;
+  text-transform: uppercase;
 }

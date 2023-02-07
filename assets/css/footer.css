@@ -1,0 +1,36 @@
+.footer {
+  background-color: #454f35;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  padding: 40px 80px;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer .links a {
+  margin: 0 25px;
+}
+
+.footer .shop-now-button {
+  background: #fff;
+  color: #454f35;
+  margin-top: 0;
+}
+
+.footer-bottom {
+  border-top: #fff 1.5px solid;
+  margin-top: 40px;
+  padding-top: 25px;
+  text-align: left;
+}
+
+.footer-bottom .footer-text {
+  margin-bottom: 5px;
+  font-family: Lato, sans-serif;
+  font-size: 10px;
+}
